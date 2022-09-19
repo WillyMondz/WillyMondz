@@ -1,14 +1,22 @@
-### Olá, sou o Willy Mondzelewski! ✌️
+## Olá, sou o Willy Mondzelewski! ✌️
+<br>
+<br>
+
+## 📊 GitHub Stats 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willymondz&show_icons=true&theme=gotham)
-___
-## Principais tecnologias utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willymondz&layout=compact&theme=gotham)](https://github.com/willymondz/github-readme-stats)
+
+<br>
+<br>
+
+## 📚 Studying
+
 <div style= "display= inline-block" padding="10px"><br>
-            <img  align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-            <img align="center" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-            <img align="center" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-            <img align="center" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+            <img  src=https://camo.githubusercontent.com/8ee45e07a8f99fadfba87a28fe0a9551a1ba4760e4a5c2637a3bb3292d23c572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532333332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074>
+            <img  src=https://camo.githubusercontent.com/6482ad0cbc9cbf18880fc3fb3176cdc2047ab60e41ea1d415c250ff876c3cb1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236>
+            <img  src=https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642>
+            <img  src=https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465>
+            <img  src=https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465>
 </div>
-
-
