@@ -5,8 +5,8 @@
 ## 📊 GitHub Stats 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willymondz&show_icons=true&theme=gotham&width="42%)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willymondz&layout=compact&theme=gotham)](https://github.com/willymondz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willymondz&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willymondz&layout=compact&theme=gotham&card_width=50)](https://github.com/willymondz/github-readme-stats)
 
 <br>
 <br>
