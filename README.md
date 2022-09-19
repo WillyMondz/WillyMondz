@@ -5,7 +5,7 @@
 ## 📊 GitHub Stats 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willymondz&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willymondz&show_icons=true&theme=gotham&hide_title=true&line_height=21)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willymondz&layout=compact&theme=gotham&card_width=50)](https://github.com/willymondz/github-readme-stats)
 
 <br>
